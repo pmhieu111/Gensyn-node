@@ -80,6 +80,7 @@ Click Create Token.
 Copy and save the Hugging Face Auth Token.
 
 Running the Node
+
 8. Install sudo
 
 `apt update && apt install -y sudo`
@@ -164,3 +165,4 @@ Keep your Ngrok and Hugging Face tokens secure.
 
 If you encounter issues, check the logs using screen -r.
 
+![image](https://github.com/user-attachments/assets/075fc52c-434e-4323-9f51-40a9140fa2ff)
